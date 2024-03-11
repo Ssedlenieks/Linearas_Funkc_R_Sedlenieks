@@ -1,1 +1,0 @@
-# Linearas_Funkc_R_Sedlenieks
