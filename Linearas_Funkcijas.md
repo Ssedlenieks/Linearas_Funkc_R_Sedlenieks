@@ -13,6 +13,8 @@ Funkciju, kuras formulu var uzrakstīt formā y=kx+b, kur k∈R,b∈R, sauc par 
 ## Piemērs
 
 Konstruēt lineārās funkcijas Y = 2X + 4 grafiku
+
+|   |    |   |   |
 |---|----|---|---|
 | X | -1 | 0 | 1 |
 | Y |  2 | 4 | 6 |
