@@ -1,4 +1,4 @@
-#Lineārās funkcijas
+# Lineārās funkcijas
 
 Funkciju, kuras formulu var uzrakstīt formā y=kx+b, kur k∈R,b∈R, sauc par lineāru funkciju. 
 
