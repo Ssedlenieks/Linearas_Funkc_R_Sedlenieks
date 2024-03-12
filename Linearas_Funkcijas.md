@@ -10,7 +10,7 @@ Funkciju, kuras formulu var uzrakstīt formā y=mx+b, kur k∈R,b∈R, sauc par 
 - 'b' ir konstantais loceklis, kas norāda, kurā punktā līnija krusto y asi.
 
 
-## Piemmērs
+## Piemērs
 
 Konstruēt lineārās funkcijas Y = 2X + 4 grafiku
 
