@@ -1,18 +1,19 @@
 def punkta_parbaude(x, y, b):
     """
     Parbauda vai koordinata (x, y) atrodas uz linijas y = k * (x - (-5)) + b.
-    punkta_parbaude (1, 9)
+    punkta_parbaude (5, 8)
     False
-    punkta_parbaude (2, 9)
+    punkta_parbaude (4, 3)
     False
-    punkta_parbaude (3, 9)
+    punkta_parbaude (1, 7)
     False
-    punkta_parbaude (4, 9)
+    punkta_parbaude (2, 4)
     False
-    punkta_parbaude (0, 9)
-    False
+    punkta_parbaude (-5, 6)
+    True
     punkta_parbaude (10, 9)
     False
+
     """
     if x == -5:
         return True

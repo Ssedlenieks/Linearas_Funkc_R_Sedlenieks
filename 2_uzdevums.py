@@ -14,6 +14,7 @@ def punkta_parbaude(x, y):
     True
     punkta_parbaude (10, 9)
     True
+    
     """
     if y == k * x + b:
         return True
