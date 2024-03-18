@@ -1,4 +1,4 @@
-#Lineārās funkcijas
+# Lineārās funkcijas
 
 Funkciju, kuras formulu var uzrakstīt formā y=kx+b, kur k∈R,b∈R, sauc par lineāru funkciju. 
 
@@ -6,14 +6,16 @@ Funkciju, kuras formulu var uzrakstīt formā y=kx+b, kur k∈R,b∈R, sauc par 
 
 - 'y' ir atkarīgā mainīgā vērtība,
 - 'x' ir neatkarīgā mainīgā vērtība,
-- 'm' ir slīpuma koeficients , kas norāda, kā mainās 'y' vērtība attiecībā pret 'x',
+- 'k' ir slīpuma koeficients , kas norāda, kā mainās 'y' vērtība attiecībā pret 'x',
 - 'b' ir konstantais loceklis, kas norāda, kurā punktā līnija krusto y asi.
 
 
-## Piemmērs
+## Piemērs
 
 Konstruēt lineārās funkcijas Y = 2X + 4 grafiku
 
+|   |    |   |   |
+|---|----|---|---|
 | X | -1 | 0 | 1 |
 | Y |  2 | 4 | 6 |
 
